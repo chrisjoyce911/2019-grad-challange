@@ -89,7 +89,7 @@ func Test_scoreEntery(t *testing.T) {
 				g: []int{7, 9, 13, 24, 33, 40},
 				w: []int{7, 22, 24, 31, 33, 40},
 			},
-			d: 4,
+			d: 3,
 			m: []int{7, 24, 33, 40},
 		},
 	}
